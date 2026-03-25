@@ -30,7 +30,9 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
+    "axios": "^1.13.6",
     "sonarqube-scanner": "^4.3.5",
-    "sonarqube-web-api-client": "^1.0.1"
+    "sonarqube-web-api-client": "^1.0.1",
+    "zod": "^4.3.6"
   }
 }
